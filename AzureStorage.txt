@@ -1,0 +1,19 @@
+Application: PPM Optics
+Role: PPMO_Role_BusTeamMbr
+
+001527146 - Pavan - vkuma361
+001475560  -Revanth - orevanth
+
+
+Storage types
+Blob, File, Disk, Table, Queue
+
+Block Bob, Append Blob, Page Blobs
+
+Storage Vs Transactions
+
+Hot Tier - 
+Cool Tier - 
+Archive Tier -
+
+Azure NetApp Files
